@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<overlay id="scrobbler" 
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+ <statusbar id="status-bar">
+  <statusbarpanel id="my-panel" 
+		  label="Hello, World!"  
+		  onclick="openPreferences('scrobblerPref')" />
+ </statusbar>
+</overlay>

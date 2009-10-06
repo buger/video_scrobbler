@@ -1,0 +1,3 @@
+content   scrobbler   chrome/content/
+overlay chrome://browser/content/browser.xul chrome://scrobbler/content/overlay.xul
+

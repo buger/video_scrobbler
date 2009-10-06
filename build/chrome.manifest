@@ -1,0 +1,3 @@
+content sample jar:chrome/sample.jar!/chrome/chromeFiles/content/
+overlay chrome://browser/content/browser.xul chrome://sample/sample.xul
+
